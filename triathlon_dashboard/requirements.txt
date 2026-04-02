@@ -6,3 +6,5 @@ sqlalchemy
 scikit-learn
 garminconnect
 python-dotenv
+anthropic
+curl_cffi
